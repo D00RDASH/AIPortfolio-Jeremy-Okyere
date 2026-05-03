@@ -5,4 +5,6 @@ Approach and methodology: I observed what happens when I run each cell in the pr
 Results and evaluation: At the end of the lab, I had to write a reflection. In my reflection, I preferred SpaCy over NTLK because of the way it handled text when part of speech tagging and identified a suitable real-world application for part of speech tagging: sentiment analysis on customer reviews in order to get more sales on a newly released car. 
 
 Your learning outcomes:
-- 
+- I understand POS tagging
+- I know NLP pipeline techniques that can benefit from POS tagging
+- I know the limitations of POS tagging
