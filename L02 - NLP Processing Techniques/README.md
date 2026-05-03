@@ -2,7 +2,7 @@ Problem Statement: I need to learn how NLP Processing works because it's an esse
 
 Approach and methodology: I observed what happens throughout and answered the questions that were in the markdown cells.
 
-Results and evaluation:  I mastered the preprocessing and NLP pipeline
+Results and evaluation:  I mastered the preprocessing and NLP pipeline.
 
 Your learning outcomes:
 - I understand the steps of the preprocessing of the NLP process
