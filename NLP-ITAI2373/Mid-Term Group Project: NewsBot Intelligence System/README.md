@@ -7,5 +7,6 @@ Results and evaluation: I successfully created a system that can classify articl
 Your learning outcomes: 
 - I can conduct sentiment analysis on textual data
 - Detect NERs
+- I implemented an interface
 
 
