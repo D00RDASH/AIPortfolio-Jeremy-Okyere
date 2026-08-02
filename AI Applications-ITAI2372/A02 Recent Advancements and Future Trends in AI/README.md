@@ -1,10 +1,7 @@
-This assignment explores recent advancements in artificial intelligence, future trends, and how these relate to the current Industry.
+Problem statement: I need to write a report on recent advancements and future trends in AI and explain how they relate to the current industries (Healthcare, Agriculture, Manufacturing, etc).
 
-Learning Outcomes:
-- Demonstrate practical skills in AI solutions through real-world analysis.
-- Discuss emerging technologies like AGI and space exploration.
-- Critically evaluate legal and ethical issues related to AI development.
-- Apply theoretical and practical knowledge through real-world case studies and examples.
+Approach and methodology: I made notes of information I already know regarding recent advancements and future trends in AI and searched for articles and papers regarding recent advancements and future trends in AI.
 
-Instructions:
-In this assignment, you will turn in the class notes that we have discussed, the key terms, and the key industry trends in AI.
+Results and evaluation:
+
+Your learning outcomes:
