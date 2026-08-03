@@ -1,0 +1,9 @@
+https://www.anthropic.com/news/claude-opus-4-8
+https://www.nxcode.io/resources/news/grok-5-release-date-6t-parameters-agi-xai-complete-guide-2026
+https://www.aimadetools.com/blog/antigravity-2-complete-guide/
+https://www.ibm.com/think/topics/artificial-general-intelligence
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-edge-ai-benefits-and-use-cases/
+https://www.coursera.org/articles/neuro-symbolic-ai
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-quantum-ai/
+https://regulations.ai/regulations/australia-summary
+https://artificialintelligenceact.eu/high-level-summary/
