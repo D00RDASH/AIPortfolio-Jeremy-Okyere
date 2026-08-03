@@ -1,5 +1,7 @@
 Problem: I need to research a real-world case of AI used for fraud detection within a financial institution and create a comprehensive case study report that explores the technology employed, the benefits realized, and the challenges encountered.
 
+Topics Covered: AI in Finance
+
 Approach and methodology: I started by describing the global nature of financial crime and why traditional systems fail. This established the need for AI‑driven solutions. I went on to explain how SCB uses machine learning models for name and transaction screening, anomaly detection, behavior‑pattern analysis, and sanctions compliance. I also pointed out that ML models compare transactions against “politically exposed persons, sanction lists, and more.” After that, I listed SCB’s challenges: outdated systems, slow investigations, global sanctions growth, and cybercrime, and identified the improvements AI made, such as faster decision‑making, reduced compliance costs, scalability, and fewer false positives. I evaluated risks such as bias, discrimination, misuse of sensitive client data, and the need for continuous monitoring and human oversight. I concluded AI is powerful, but must be paired with human judgment and ongoing model governance.
 
 Results and evaluation: 
