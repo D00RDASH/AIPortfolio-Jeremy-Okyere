@@ -1,5 +1,7 @@
 Problem statement: I need to write a report on recent advancements and future trends in AI and explain how they relate to the current industries.
 
+Topics Covered: AI Advancements and Future Trends 
+
 Approach and methodology: First, I evaluated three major model releases, Claude Opus 4.8, Grok 5, and Google Antigravity 2.0, using valuable information I could gather from their official websites. After that, I used a policy-mapping strategy to compare future trends in AI to existing AI policies, the Australia AI Framework and EU AI Act. This involved identifying and recognizing each future trend and policy, aligning each AI trend with the appropriate governance structures, ethical priorities, and transparency obligations, and comparing these trends with the AI policies.
 
 Results and evaluation: The results of the analysis below show clear distinctions between technical advancements and regulatory compliance.
